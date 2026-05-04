@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@layer base {
+  .display-font {
+    font-family: var(--font-display), sans-serif;
+  }
+}
+
